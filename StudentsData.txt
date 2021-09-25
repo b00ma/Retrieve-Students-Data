@@ -1,0 +1,10 @@
+A Poornima 12 A
+A Soppia 12 B
+Aishwarya 12 C
+Jagannath 12 D
+Kalpana 12 E
+A Thiyaneswaran 10 A
+Rohiit 10 B
+Vishali 10 C
+Kamalesh 10 D
+Janathan 10 E
